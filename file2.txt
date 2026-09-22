@@ -1,3 +1,4 @@
 Python SQL pl/sql
 Object oriented lang
 interpreted lang
+machine learning
